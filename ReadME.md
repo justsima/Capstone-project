@@ -6,7 +6,7 @@ Welcome to **The Game of Life**! This project is an implementation of Conway's G
 
 ### Prerequisites
 
-- Python 3.x
+- Python 3.8 or higher
 - Jupyter Notebook
 
 ### Installation
@@ -14,7 +14,7 @@ Welcome to **The Game of Life**! This project is an implementation of Conway's G
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/game-of-life.git
+    git clone https://github.com/justsima/Capstone-project.git
     cd game-of-life
     ```
 
@@ -27,7 +27,7 @@ Welcome to **The Game of Life**! This project is an implementation of Conway's G
 3. **Run the Jupyter Notebook:**
 
     ```bash
-    jupyter notebook The\ Game\ of\ Life.ipynb
+    jupyter notebook The\' Game\' of\' Life.ipynb
     ```
 
 ## 🎮 How to Play
