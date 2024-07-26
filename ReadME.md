@@ -15,7 +15,7 @@ Welcome to **The Game of Life**! This project is an implementation of Conway's G
 
     ```bash
     git clone https://github.com/justsima/Capstone-project.git
-    cd game-of-life
+    cd Capstone-project
     ```
 
 2. **Install the required packages:**
