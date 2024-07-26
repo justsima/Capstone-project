@@ -27,7 +27,7 @@ Welcome to **The Game of Life**! This project is an implementation of Conway's G
 3. **Run the Jupyter Notebook:**
 
     ```bash
-    jupyter notebook The\' Game\' of\' Life.ipynb
+    jupyter notebook The Game of Life.ipynb
     ```
 
 ## 🎮 How to Play
